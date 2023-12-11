@@ -3,6 +3,8 @@ import { Card } from "@radix-ui/themes";
 import { ResponsiveContainer, BarChart, XAxis, YAxis, Bar } from "recharts";
 import React from "react";
 
+// checkpoint
+
 interface Props {
   open: number;
   inProgress: number;
